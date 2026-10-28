@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# PENDENTE: acrescentar a linha "Sitemap: <endereço do site>/sitemap.xml" quando o endereço final existir.
